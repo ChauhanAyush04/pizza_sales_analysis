@@ -42,26 +42,6 @@ A comprehensive data analytics project that analyzes pizza sales patterns, custo
 
 ---
 
-## 📂 Project Structure
-
-```
-pizza_sales_analysis/
-├── README.md
-├── pizza.pbix              # Power BI Dashboard File
-├── sql_queries/            # SQL scripts for data extraction
-│   ├── sales_analysis.sql
-│   ├── customer_insights.sql
-│   └── trend_analysis.sql
-├── data/                   # Sample datasets
-│   ├── pizza_sales.csv
-│   └── customer_data.csv
-└── documentation/          # Project documentation
-    ├── dashboard_guide.md
-    └── data_dictionary.md
-```
-
----
-
 ## 🔍 Key Insights Generated
 
 - **Revenue Trends:** Identified top-performing pizza categories and seasonal demand patterns
